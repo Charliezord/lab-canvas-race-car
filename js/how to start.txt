@@ -1,0 +1,23 @@
+ //start screen 
+ const splashScreen = document.queryselector('.game-intro')
+
+ // second screen --> - remove the starting screen
+
+ function startGame (){
+ splashScreen.style.display = none
+ }
+
+// put the play screen here
+
+image = load the image
+
+const canvas = createcanvas (500, 700)
+canvas.parent('game-board')
+
+draw = 
+background (image)
+use noloop for stopping the car
+
+
+// 3rd screen
+game over screen
